@@ -4,7 +4,7 @@
     <Page id="page" title="{i18n>title}">
      <content>
             <Button id="button1" text="Marian Eris Villafuerte" press="onPress"/>
-            <Button xmlns="sap.m" text="Mitchel Gaabucayan" id="button0"/>
+            <Button id="button2" text="Mitchel Gaabucayan" press="onPress"/>
         </content>
     </Page>
 </mvc:View>
