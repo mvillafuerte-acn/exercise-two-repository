@@ -34,3 +34,6 @@ An SAP Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+#### Change Logs
+
+1. Added button with text "Marian Eris Villafuerte"
