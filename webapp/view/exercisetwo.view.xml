@@ -1,9 +1,8 @@
-<mvc:View controllerName="com.ui5.train.exercisetwoapplication.controller.exercisetwo"
-    xmlns:mvc="sap.ui.core.mvc"
-    xmlns="sap.m">
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="com.ui5.train.exercisetwoapplication.controller.exercisetwo">
     <Page id="page" title="{i18n>title}">
         <content>
-            <Button id="button1" text="Marian Eris Villafuerte" press="onPress" />
+            <Button id="button1" text="Marian Eris Villafuerte" press="onPress"/>
+            <Button xmlns="sap.m" text="Mitchel Gaabucayan" id="button0"/>
         </content>
     </Page>
 </mvc:View>
