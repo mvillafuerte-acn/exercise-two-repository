@@ -35,3 +35,7 @@ An SAP Fiori application.
 
 
 Action Added a Button Raven Mamplata
+#### Change Logs
+
+1. Added button with text "Marian Eris Villafuerte"
+2. Added button with text "Sean Jurie Edano"
